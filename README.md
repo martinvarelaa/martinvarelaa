@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martín</h1>
-<h3 align="center">I am studying (enjoying) web application development</h3>
+<h3 align="center">I'm currently working as software developer</h3>
 
 - 🌱 I’m currently learning **Java(w/Spring), JavaScript(w/react), PHP(w/Symfony)**
 
